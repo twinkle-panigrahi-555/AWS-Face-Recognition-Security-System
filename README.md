@@ -1,8 +1,3 @@
-Twinkle ✨🔥
-This is the **kind of README that makes recruiters stop scrolling.**
-Clean. Professional. Powerful. Cloud-native.
-You can **copy–paste this directly** into your `README.md`.
-
 # 🔐 AWS Face Recognition Smart Security System
 
 > **A real-time AI-powered security system using AWS Rekognition, OpenCV, and Python to authenticate employees via face recognition and display access decisions instantly.**
